@@ -1,0 +1,21 @@
+_repo: Barbarous-Soviet-Russia_49055
+creator:
+  author:
+    agent_name: McBride, Isaac
+    gutenberg_agent_id: '45112'
+    url: http://www.gutenberg.org/2009/agents/45112
+description: ''
+gutenberg_issued: '2015-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49055'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soviet Union -- Politics and government -- 1917-1936'
+- !lcsh 'Soviet Union -- Economic conditions -- 1917-1945'
+- !lcsh 'Communism -- Soviet Union'
+title: Barbarous Soviet Russia
+url: http://www.gutenberg.org/ebooks/49055
